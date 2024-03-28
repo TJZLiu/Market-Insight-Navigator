@@ -1,5 +1,7 @@
 # Market Insight Navigator
  Market Insight Navigator is designed for a leading technology retailer to transform their decision-making with a Power BI dashboard, offering a daily overview of sales and costs across Portuguese online stores. It features sales data with/without tax, cost variations, profit margins, and a geographical sales breakdown. The solution enables performance comparison by store, sales targets, and historical evaluations, enhancing strategy formulation for market efficiency. Additionally, it incorporates sales predictions, delivery metrics, and customer insights, with multi-currency support for international partners.
+
+ ![alt text](https://github.com/TJZLiu/Market-Insight-Navigator/blob/main/Project%20Preview%20Snapshot/1%20Home%20Page.png?raw=true)
  
 A major technology retail company aimed to have a solution providing a daily view of product sales and related cost in all their Portuguese online stores. 
 This would help the decision-making process and the definition of strategies for a more efficient market operation. 
